@@ -6,5 +6,5 @@ Projeto para uso pessoal :)
 - HTML
 - CSS
 
-* *Observações:*
+*Observações:*
   - Versão simples do projeto (Versão 1.0)
